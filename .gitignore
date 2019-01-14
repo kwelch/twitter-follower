@@ -1,3 +1,4 @@
 node_modules
 # prefer yarn over npm
 package-lock.json
+.env
